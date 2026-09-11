@@ -1,6 +1,6 @@
 # 🌤️ LAB 6: ESP8266 Local Weather Station Dashboard
 
-ระบบตรวจวัดอุณหภูมิและความชื้นแบบ Real-Time ด้วย **ESP8266** และ **DHT11** บันทึกข้อมูลลงฐานข้อมูล **MySQL (phpMyAdmin)** และแสดงผลบน **Web Dashboard** ผ่าน Web Server (XAMPP)
+ระบบตรวจวัดอุณหภูมิและความชื้นแบบ Real-Time ด้วย **ESP8266** และ **DHT11** บันทึกข้อมูลลงฐานข้อมูล **MySQL (phpMyAdmin)** และแสดงผลบน **Web**
 
 ---
 
