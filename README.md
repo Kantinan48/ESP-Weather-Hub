@@ -7,7 +7,7 @@
 ## 📌 คุณสมบัติของระบบ (Features)
 - 🌡️ **Real-Time Data Collection**: รับค่าอุณหภูมิ (°C, °F) ความชื้น (%) และ Feels Like จาก ESP8266 ทุกๆ 10 วินาที
 - 🗄️ **Database Storage**: บันทึกข้อมูลลงฐานข้อมูล MySQL บน Localhost อัตโนมัติพร้อม Stamp เวลา
-- 📊 **Dynamic Dashboard**: หน้าเว็บ UI ทันสมัย แสดงผลข้อมูลปัจจุบัน สถิติ (Min/Max/Avg) และตารางประวัติย้อนหลัง 5 รายการ
+- 📊 **Dynamic Dashboard**: หน้าเว็บ UI ทันสมัย แสดงผลข้อมูลปัจจุบัน สถิติ (Min/Max/Avg) และตารางประวัติย้อนหลัง
 - 🔄 **Auto Refresh**: หน้า Dashboard อัปเดตข้อมูลอัตโนมัติด้วย JavaScript (Fetch API) โดยไม่ต้องกด Refresh หน้าเว็บ
 
 ---
